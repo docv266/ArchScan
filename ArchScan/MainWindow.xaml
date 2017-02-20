@@ -21,7 +21,7 @@
 
         <Button Grid.Row="1" Grid.Column="0" x:Name="Scan" Content="Scan" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="75" Click="Scan_Click"/>
         <ListBox Grid.Row="0" Grid.Column="0" x:Name="listBox" HorizontalAlignment="Center" Height="100" Margin="0,0,0,0" VerticalAlignment="Center" Width="100"/>
-        <Image Grid.Row="0" Grid.Column="1" x:Name="ImageBox" HorizontalAlignment="Center" Height="167" Margin="0,0,0,0" VerticalAlignment="Center" Width="130"/>
+        <Image Grid.Row="0" Grid.Column="1" x:Name="ImageBox" Height="300" Margin="0,0,0,0"  Width="200"/>
 
     </Grid>
 </Window>
